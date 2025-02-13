@@ -3,4 +3,4 @@ sch = [https://www.google.com/search?q=gnome+workspace+all+screens, https://www.
 
 discuss = [https://askubuntu.com/questions/1403554/switch-workspace-on-dual-monitor-22-04]
 
-solution.command = "gsettings set org.gnome.mutter workspaces-only-on-primary false"
+Solution.command = "gsettings set org.gnome.mutter workspaces-only-on-primary false"
